@@ -1,0 +1,5 @@
+studentsubject_challenges.Subject
+studentsubject_challenges.Student
+studentsubject_challenges.StudentSubject_Challenges
+studentsubject_challenges.Sutdent
+studentsubject_challenges.StudentSubject_Challenges$1
